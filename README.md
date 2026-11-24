@@ -1,7 +1,6 @@
 # Laboratorio QAOA, SAT e Grover
 
-Materiali per una lezione alla lavagna di 150 minuti, rivolta a studenti magistrali che conoscono circuiti quantistici, Python e Grover. MaxCut sul quadrato collega QAOA, decisione a soglia, SAT, oracoli reversibili e operatori alternati. Dispensa, notebook e guida all'app sono in italiano; l'interfaccia Streamlit è interamente in inglese. Formule, convenzioni e risultati di riferimento sono comuni a tutti i materiali.
-
+Materiali per una lezione alla lavagna di 150 minuti, rivolta a studenti magistrali dei corsi di laurea in ingegneria gestionale ed elettronica
 ## Materiali
 
 - `output/pdf/guida_docente.pdf`: dispensa tecnica per una lezione universitaria alla lavagna, con derivazioni complete QAOA, riduzione a SAT, oracolo reversibile e conclusione sui risultati delle misure. Grover è assunto noto.
